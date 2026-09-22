@@ -14,8 +14,8 @@ The fundamentals in this section are not just syntax exercises. They are the **m
 
 ## 📁 Topics in This Section
 
-| # | Topic | Description | Status |
-|---|-------|-------------|--------|
+| # | Topic | Description | 
+|---|-------|-------------|
 | 01 | [Variables & Data Types](./01_variables_and_data_types/README.md) | How C stores and labels data in memory | 
 | 02 | [Conditionals](./02_conditionals/README.md) | Decision making with if/else and switch | 
 | 03 | [Loops](./03_loops/README.md) | Repeating logic with for, while, do-while | 
