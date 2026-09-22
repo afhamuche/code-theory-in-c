@@ -67,18 +67,18 @@ Each topic folder contains:
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | Variables & Data Types | ⬜ Not started |
-| 02 | Conditionals | ⬜ Not started |
-| 03 | Loops | ⬜ Not started |
-| 04 | Functions & Recursion | ⬜ Not started |
-| 05 | Arrays & Strings | ⬜ Not started |
-| 06 | Pointers & References | ⬜ Not started |
+| 01 | Variables & Data Types | ✅ Completed |
+| 02 | Conditionals | ✅ Completed |
+| 03 | Loops | ✅ Completed |
+| 04 | Functions & Recursion | ✅ Completed |
+| 05 | Arrays & Strings | ✅ Completed |
+| 06 | Pointers & References | ✅ Completed |
 
 ### 02 — Data Structures
 
 | # | Topic | Status |
 |---|-------|--------|
-| 07 | Linked Lists | ⬜ Not started |
+| 07 | Linked Lists | ✅ Completed |
 | 08 | Stacks | ⬜ Not started |
 | 09 | Queues | ⬜ Not started |
 | 10 | Hash Tables | ⬜ Not started |
