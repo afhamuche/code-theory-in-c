@@ -16,12 +16,12 @@ The fundamentals in this section are not just syntax exercises. They are the **m
 
 | # | Topic | Description | Status |
 |---|-------|-------------|--------|
-| 01 | [Variables & Data Types](./01_variables_and_data_types/README.md) | How C stores and labels data in memory | ⬜ Not started |
-| 02 | [Conditionals](./02_conditionals/README.md) | Decision making with if/else and switch | ⬜ Not started |
-| 03 | [Loops](./03_loops/README.md) | Repeating logic with for, while, do-while | ⬜ Not started |
-| 04 | [Functions & Recursion](./04_functions_and_recursion/README.md) | Reusable blocks of logic, functions calling themselves | ⬜ Not started |
-| 05 | [Arrays & Strings](./05_arrays_and_strings/README.md) | Collections of data, and how C handles text | ⬜ Not started |
-| 06 | [Pointers & References](./06_pointers_and_references/README.md) | The most powerful — and dangerous — feature of C | ⬜ Not started |
+| 01 | [Variables & Data Types](./01_variables_and_data_types/README.md) | How C stores and labels data in memory | 
+| 02 | [Conditionals](./02_conditionals/README.md) | Decision making with if/else and switch | 
+| 03 | [Loops](./03_loops/README.md) | Repeating logic with for, while, do-while | 
+| 04 | [Functions & Recursion](./04_functions_and_recursion/README.md) | Reusable blocks of logic, functions calling themselves | 
+| 05 | [Arrays & Strings](./05_arrays_and_strings/README.md) | Collections of data, and how C handles text | 
+| 06 | [Pointers & References](./06_pointers_and_references/README.md) | The most powerful — and dangerous — feature of C | 
 
 ---
 
