@@ -79,7 +79,7 @@ Each topic folder contains:
 | # | Topic | Status |
 |---|-------|--------|
 | 07 | Linked Lists | ✅ Completed |
-| 08 | Stacks | ⬜ Not started |
+| 08 | Stacks | ✅ Completed |
 | 09 | Queues | ⬜ Not started |
 | 10 | Hash Tables | ⬜ Not started |
 | 11 | Binary Trees | ⬜ Not started |
