@@ -80,7 +80,7 @@ Each topic folder contains:
 |---|-------|--------|
 | 07 | Linked Lists | ✅ Completed |
 | 08 | Stacks | ✅ Completed |
-| 09 | Queues | ⬜ Not started |
+| 09 | Queues | ✅ Completed |
 | 10 | Hash Tables | ⬜ Not started |
 | 11 | Binary Trees | ⬜ Not started |
 | 12 | Binary Search Trees (BST) | ⬜ Not started |
