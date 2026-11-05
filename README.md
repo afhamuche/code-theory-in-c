@@ -81,9 +81,9 @@ Each topic folder contains:
 | 07 | Linked Lists | ✅ Completed |
 | 08 | Stacks | ✅ Completed |
 | 09 | Queues | ✅ Completed |
-| 10 | Hash Tables | ⬜ Not started |
-| 11 | Binary Trees | ⬜ Not started |
-| 12 | Binary Search Trees (BST) | ⬜ Not started |
+| 10 | Hash Tables | ✅ Completed |
+| 11 | Binary Trees | ✅ Completed |
+| 12 | Binary Search Trees (BST) | ✅ Completed |
 | 13 | Heaps / Priority Queues | ⬜ Not started |
 | 14 | Graphs | ⬜ Not started |
 | 15 | Tries | ⬜ Not started |
